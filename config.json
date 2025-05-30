@@ -1,0 +1,7 @@
+{
+    "scanna": [],
+    "discord": {
+        "webhook_url": "",
+        "ping": "@everyone"
+    }
+}
